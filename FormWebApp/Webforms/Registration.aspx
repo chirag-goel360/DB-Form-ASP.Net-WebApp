@@ -42,7 +42,7 @@
         }
     </style>
 </head>
-<body>
+<body style="margin-bottom: 53px">
     <form id="form1" runat="server">
         <div>
             <table class="auto-style1">
